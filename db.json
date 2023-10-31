@@ -1,6 +1,4 @@
 {
-    "tempoDeCasa":[
-        {
         "TempoCasa": 5,
         "Nome": "Maxwell",
         "Funcao": "Analista",
@@ -19,5 +17,3 @@
         "Email": "maxwellbezerra@sestsenat.org.br",
         "DataContratacao": "31/10/2023"
     }
-    ]
-}
