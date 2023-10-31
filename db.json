@@ -12,17 +12,6 @@
          "DataContratacao":"10/31/2023"
       },
       {
-         "TempoCasa":10,
-         "IdColaborador":123,
-         "IdEmpresa":1,
-         "Nome":"Maxwell",
-         "Funcao":"Analista",
-         "Unidade":"123",
-         "Email":"maxwellbezerra@sestsenat.org.br",
-         "Area":"GETEC",
-         "DataContratacao":"10/31/2023"
-      },
-      {
          "TempoCasa":5,
          "IdColaborador":123,
          "IdEmpresa":1,
@@ -31,7 +20,49 @@
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/2023"
+         "DataContratacao":"10/31/2018"
+      },
+      {
+         "TempoCasa":10,
+         "IdColaborador":123,
+         "IdEmpresa":1,
+         "Nome":"Maxwell",
+         "Funcao":"Analista",
+         "Unidade":"123",
+         "Email":"maxwellbezerra@sestsenat.org.br",
+         "Area":"GETEC",
+         "DataContratacao":"10/31/2013"
+      },{
+         "TempoCasa":15,
+         "IdColaborador":123,
+         "IdEmpresa":1,
+         "Nome":"Maxwell",
+         "Funcao":"Analista",
+         "Unidade":"123",
+         "Email":"maxwellbezerra@sestsenat.org.br",
+         "Area":"GETEC",
+         "DataContratacao":"10/31/2008"
+      },{
+         "TempoCasa":20,
+         "IdColaborador":123,
+         "IdEmpresa":1,
+         "Nome":"Maxwell",
+         "Funcao":"Analista",
+         "Unidade":"123",
+         "Email":"maxwellbezerra@sestsenat.org.br",
+         "Area":"GETEC",
+         "DataContratacao":"10/31/2003"
+      },
+      {
+         "TempoCasa":25,
+         "IdColaborador":123,
+         "IdEmpresa":1,
+         "Nome":"Maxwell",
+         "Funcao":"Analista",
+         "Unidade":"123",
+         "Email":"maxwellbezerra@sestsenat.org.br",
+         "Area":"GETEC",
+         "DataContratacao":"10/31/1998"
       }
    ]
 }
