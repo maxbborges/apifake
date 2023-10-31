@@ -3,7 +3,7 @@
       {
          "TempoCasa":0,
          "IdColaborador":123,
-         "IdEmpresa":"1",
+         "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
          "Unidade":"123",
@@ -14,7 +14,7 @@
       {
          "TempoCasa":10,
          "IdColaborador":123,
-         "IdEmpresa":"1",
+         "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
          "Unidade":"123",
@@ -25,7 +25,7 @@
       {
          "TempoCasa":5,
          "IdColaborador":123,
-         "IdEmpresa":"1",
+         "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
          "Unidade":"123",
