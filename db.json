@@ -1,15 +1,15 @@
 {
-  "posts": [
-    {
-"TempoCasa": "5",
-"IdColaborador" : "123",
-"IdEmpresa" : "1",
-"Nome": "Maxwell",
-"Funcao" : "Analista",
-"Unidade" : "123",
-"Email" : "maxwellbezerra@sestsenat.org.br",
-"Area" : "GETEC",
-"DataContratacao" : "31/10/2023"
-                    }
-  ],
+   "posts":[
+      {
+         "TempoCasa":"5",
+         "IdColaborador":"123",
+         "IdEmpresa":"1",
+         "Nome":"Maxwell",
+         "Funcao":"Analista",
+         "Unidade":"123",
+         "Email":"maxwellbezerra@sestsenat.org.br",
+         "Area":"GETEC",
+         "DataContratacao":"31/10/2023"
+      }
+   ]
 }
