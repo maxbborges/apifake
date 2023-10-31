@@ -1,19 +1,11 @@
 {
-        "TempoCasa": 5,
-        "Nome": "Maxwell",
-        "Funcao": "Analista",
-        "Email": "maxwellbezerra@sestsenat.org.br",
-        "DataContratacao": "31/10/2023"
-    },{
-        "TempoCasa": 5,
-        "IdColaborador": 123,
-        "Nome": "Maxwell",
-        "Email": "maxwellbezerra@sestsenat.org.br",
-        "DataContratacao": "31/10/2023"
-    },{
-        "TempoCasa": 5,
-        "Nome": "Maxwell",
-        "Funcao": "Analista",
-        "Email": "maxwellbezerra@sestsenat.org.br",
-        "DataContratacao": "31/10/2023"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
