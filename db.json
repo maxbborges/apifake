@@ -63,6 +63,17 @@
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
          "DataContratacao":"10/31/1998"
+      },
+      {
+         "TempoCasa":30,
+         "IdColaborador":123,
+         "IdEmpresa":1,
+         "Nome":"Maxwell",
+         "Funcao":"Analista",
+         "Unidade":"123",
+         "Email":"maxwellbezerra@sestsenat.org.br",
+         "Area":"GETEC",
+         "DataContratacao":"10/31/1993"
       }
    ]
 }
