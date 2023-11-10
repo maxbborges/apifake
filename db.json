@@ -13,7 +13,7 @@
       },
       {
          "TempoCasa":5,
-         "IdColaborador":123,
+         "IdColaborador":"123",
          "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
@@ -24,7 +24,7 @@
       },
       {
          "TempoCasa":10,
-         "IdColaborador":123,
+         "IdColaborador":"123",
          "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
@@ -34,7 +34,7 @@
          "DataContratacao":"11/9/2018 12:00:00 AM"
       },{
          "TempoCasa":15,
-         "IdColaborador":123,
+         "IdColaborador":"123",
          "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
@@ -44,7 +44,7 @@
          "DataContratacao":"11/9/2018 12:00:00 AM"
       },{
          "TempoCasa":20,
-         "IdColaborador":123,
+         "IdColaborador":"123",
          "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
@@ -55,7 +55,7 @@
       },
       {
          "TempoCasa":25,
-         "IdColaborador":123,
+         "IdColaborador":"123",
          "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
@@ -66,7 +66,7 @@
       },
       {
          "TempoCasa":30,
-         "IdColaborador":123,
+         "IdColaborador":"123",
          "IdEmpresa":1,
          "Nome":"Maxwell",
          "Funcao":"Analista",
