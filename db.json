@@ -2,14 +2,14 @@
    "posts":[
       {
          "TempoCasa":0,
-         "IdColaborador":123,
-         "IdEmpresa":1,
+         "IdColaborador":"123",
+         "IdEmpresa":"1",
          "Nome":"Maxwell",
          "Funcao":"Analista",
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/2023"
+         "DataContratacao":"11/9/2018 12:00:00 AM"
       },
       {
          "TempoCasa":5,
@@ -20,7 +20,7 @@
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/2018"
+         "DataContratacao":"11/9/2018 12:00:00 AM"
       },
       {
          "TempoCasa":10,
@@ -31,7 +31,7 @@
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/2013"
+         "DataContratacao":"11/9/2018 12:00:00 AM"
       },{
          "TempoCasa":15,
          "IdColaborador":123,
@@ -41,7 +41,7 @@
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/2008"
+         "DataContratacao":"11/9/2018 12:00:00 AM"
       },{
          "TempoCasa":20,
          "IdColaborador":123,
@@ -51,7 +51,7 @@
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/2003"
+         "DataContratacao":"11/9/2018 12:00:00 AM"
       },
       {
          "TempoCasa":25,
@@ -62,7 +62,7 @@
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/1998"
+         "DataContratacao":"11/9/2018 12:00:00 AM"
       },
       {
          "TempoCasa":30,
@@ -73,7 +73,7 @@
          "Unidade":"123",
          "Email":"maxwellbezerra@sestsenat.org.br",
          "Area":"GETEC",
-         "DataContratacao":"10/31/1993"
+         "DataContratacao":"11/9/2018 12:00:00 AM"
       }
    ]
 }
