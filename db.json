@@ -1,5 +1,5 @@
 {
-   "posts":[
+   "dados":[
       {
          "TempoCasa":0,
          "IdColaborador":"123",
@@ -75,5 +75,6 @@
          "Area":"GETEC",
          "DataContratacao":"11/9/2018 12:00:00 AM"
       }
-   ]
+   ],
+   "dado":[]
 }
